@@ -1,6 +1,6 @@
 {
     "name": "flipkart-Pro",
-    "start_url": "/index-html",
+    "start_url": "/flipkart-pro",
     "display": "standalone",
     "icons": [
         {
